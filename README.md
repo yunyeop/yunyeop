@@ -3,4 +3,4 @@
 </div>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=00yykim)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=00-yykim&show_icons=true&theme=radical)
