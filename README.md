@@ -4,4 +4,6 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=00-yykim&show_icons=true&theme=radical)
-[![willianrod의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=00-yykim)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
