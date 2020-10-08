@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:4em; text-weight: bold;"># FULLSTACK DEVELOPER (I HOPE)</span>
+# FULLSTACK DEVELOPER (I HOPE)
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=00-yykim&show_icons=true&theme=radical) -->
 
