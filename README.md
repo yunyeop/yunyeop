@@ -2,11 +2,12 @@
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=00-yykim&show_icons=true&theme=radical) -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@e2782542-490c-4443-8b5a-03993a7fd6ca)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@e2782542-490c-4443-8b5a-03993a7fd6ca)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00-yykim)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@e2782542-490c-4443-8b5a-03993a7fd6ca" />
   <img src="https://github-readme-stats.vercel.app/api?username=00-yykim&show_icons=true&theme=radical" />
 </div>
 <div align=center>
