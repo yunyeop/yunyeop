@@ -1,4 +1,4 @@
-# FULLSTACK DEVELOPER
+<!-- # FULLSTACK DEVELOPER -->
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=00-yykim&show_icons=true&theme=radical) -->
 
