@@ -1,13 +1,25 @@
 ㄴOㄱ
 
+<h3 align="center">:computer: Tech Stack :computer:</h3>
+
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-78B8DE?style=flat&logo=JavaScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-VueJs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=#61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=#61DAFB"/></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-NodeJs-5675D8?style=flat&logo=Node.js&logoColor=#339933"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Java-F0941E?style=flat&logo=Java&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Spring-6AAD3D?style=flat&logo=Spring&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-SpringBoot-6AAD3D?style=flat&logo=Spring&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Flutter-50BFF1?style=flat&logo=Flutter&logoColor=white"/></a>
 </p>
 
 <p align="center">
