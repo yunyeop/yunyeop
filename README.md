@@ -1,4 +1,10 @@
-ㄴOㄱ
+<p align="center">
+  <h3 align="center">:wave: 안녕하세요!</h3>
+  <h5 align="center">풀스택 개발자가 목표인 김윤엽 입니다!</h5>
+</p>
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yykim&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <h3 align="center">:computer: Tech Stack</h3>
 
