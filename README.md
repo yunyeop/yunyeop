@@ -5,10 +5,9 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yykim&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<br>
 
 <h3 align="center">:computer: Tech Stack</h3>
-<br>
-<br>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-78B8DE?style=flat&logo=JavaScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-VueJs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>
