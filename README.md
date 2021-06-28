@@ -31,6 +31,11 @@
   <a href="https://wiz-one.co.kr">SPACE*IZ</a>'s Developer 
 </p>-->
 
+<h3 align="center">:grinning: Career</h3>
+<p align="center">
+  <a href="https://wiz-one.co.kr"><color="pink">SPACE*IZ</color></a> Developer
+</p>
+
 
 <h4 align="center">😛 Etc</h4>
 <p align="center">
