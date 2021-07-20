@@ -8,7 +8,7 @@
 <h3 align="center">📚 Tech Stack</h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-78B8DE?style=flat&logo=JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-VueJs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=#61DAFB"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
 <!--   <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=#61DAFB"/></a> -->
