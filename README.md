@@ -14,6 +14,12 @@
 <!--   <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=#61DAFB"/></a> -->
 </p>
 
+<h3 align="center">✏️ Interest..!</h3> 
+<p align="center">
+  <a href="https://reactnative.dev/" target="_blank">ReactNative</a><br>
+  <a href="https://graphql.org/" target="_blank">GraphQL</a>
+</p>
+
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-NodeJs-5675D8?style=flat&logo=Node.js&logoColor=#339933"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Java-F0941E?style=flat&logo=Java&logoColor=white"/></a>
