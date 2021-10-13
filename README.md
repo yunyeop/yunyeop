@@ -30,7 +30,8 @@
 <h3 align="center">⭐ Interest</h3> 
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank">ReactNative</a><br>
-  <a href="https://graphql.org/" target="_blank">GraphQL</a>
+  <a href="https://graphql.org/" target="_blank">GraphQL</a><br>
+    <a href="https://www.apple.com/mac/" target="_blank">2021 MacBook Pro</a>
 </p>
 
 <!-- <h4 align="center">:mag_right: Im..</h4>
