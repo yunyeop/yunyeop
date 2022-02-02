@@ -41,7 +41,7 @@
 
 <h3 align="center">:grinning: Career</h3>
 <p align="center">
-  <a href="https://wiz-one.co.kr"><color="pink">SPACE*IZ</color></a> Developer
+  <a href="https://wiz-one.co.kr"><color="pink">SPACE*IZ</color></a> Developer (Closed)
 </p>
 
 
