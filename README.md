@@ -42,7 +42,7 @@
 
 <h3 align="center">:grinning: Career</h3>
 <p align="center">
-  <a href="https://wiz-one.co.kr"><color="pink">SPACE*IZ</color></a> Developer (Closed) [<a href="https://namu.wiki/w/SPACE*IZ?from=%EC%95%84%EC%9D%B4%EC%A6%88%EC%9B%90%20%ED%97%88%EB%B8%8C%ED%99%88">ref</a>]
+  <a href="https://wiz-one.co.kr"><color="pink">SPACE*IZ</color></a> Developer (Closed) [<a href="https://namu.wiki/w/SPACE*IZ?from=%EC%95%84%EC%9D%B4%EC%A6%88%EC%9B%90%20%ED%97%88%EB%B8%8C%ED%99%88">Ref</a>]
 </p>
 
 
