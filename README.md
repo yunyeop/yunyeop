@@ -39,7 +39,7 @@
   <br/>
   <a href="https://apps.apple.com/kr/app/%EB%8C%80%EB%8F%99%EB%B9%B5%EC%A7%80%EB%8F%84/id6445900733?l"><color="pink">대동빵지도</color></a> Developer
   <br/>
-  <a href="https://apps.apple.com/kr/app/%EB%8C%80%EB%8F%99%EB%B9%B5%EC%A7%80%EB%8F%84/id6445900733?l"><color="pink">올빼미광장</color></a> Developer
+  <a href="https://play.google.com/store/apps/details?id=com.owlworld"><color="pink">올빼미광장</color></a> Developer
 </p>
 
 <p align="center">
