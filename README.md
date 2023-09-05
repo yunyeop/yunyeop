@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://wiz-one.co.kr"><color="pink">SPACE*IZ</color></a> Developer (Closed) [<a href="https://namu.wiki/w/SPACE*IZ?from=%EC%95%84%EC%9D%B4%EC%A6%88%EC%9B%90%20%ED%97%88%EB%B8%8C%ED%99%88">Ref</a>]
   <br/>
-  <a href="https://apps.apple.com/kr/app/%EB%8C%80%EB%8F%99%EB%B9%B5%EC%A7%80%EB%8F%84/id6445900733?l"><color="pink">대동빵지도</color></a> Developer
+  <a href="https://sugared-chamomile-e10.notion.site/APP-d7e4b7d577c3434ca0be90bcb5dec299"><color="pink">대동빵지도</color></a> Developer
   <br/>
   <a href="https://play.google.com/store/apps/details?id=com.owlworld"><color="pink">올빼미광장</color></a> Developer
 </p>
