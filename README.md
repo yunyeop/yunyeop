@@ -25,13 +25,14 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Flutter-50BFF1?style=flat&logo=Flutter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=#61DAFB"/></a>
 </p>
 
-<h3 align="center">⭐ Interest</h3> 
+<!-- <h3 align="center">⭐ Interest</h3> 
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank">ReactNative</a><br>
   <a href="https://graphql.org/" target="_blank">GraphQL</a><br>
-</p>
+</p> -->
 
 <h3 align="center">:grinning: Project</h3>
 <p align="center">
