@@ -41,6 +41,8 @@
   <a href="https://sugared-chamomile-e10.notion.site/APP-d7e4b7d577c3434ca0be90bcb5dec299"><color="pink">대동빵지도</color></a> Developer
   <br/>
   <a href="https://play.google.com/store/apps/details?id=com.owlworld"><color="pink">올빼미광장</color></a> Developer
+  <br/>
+  <a href="https://play.google.com/store/apps/details?id=com.owlworld"><color="pink">비법거래소</color></a> Developer
 </p>
 
 <p align="center">
