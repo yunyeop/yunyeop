@@ -42,7 +42,7 @@
   <br/>
   <a href="https://play.google.com/store/apps/details?id=com.owlworld"><color="pink">올빼미광장</color></a> Developer
   <br/>
-  <a href="https://play.google.com/store/apps/details?id=com.owlworld"><color="pink">비법거래소</color></a> Developer
+  <a href="https://bibeop.com"><color="pink">비법거래소</color></a> Developer
 </p>
 
 <p align="center">
