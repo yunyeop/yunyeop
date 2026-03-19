@@ -42,7 +42,7 @@
   <br/>
   <a href="https://sugared-chamomile-e10.notion.site/APP-d7e4b7d577c3434ca0be90bcb5dec299"><color="pink">대동빵지도</color></a> Developer (Closed)
   <br/>
-  <a href="https://bibeop.com"><color="pink">비법거래소</color></a> Developer
+  <a href="https://bibeop.com"><color="pink">비법거래소</color></a> Developer (Closed)
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 </p>
 
 
-<h4 align="center">😛 Etc</h4>
+<!-- <h4 align="center">😛 Etc</h4>
 <p align="center">
-  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyeop&count_bg=%23ff6eaa&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today%27s&edge_flat=false"/></a>
+  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyeop&count_bg=%23ff6eaa&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today%27s&edge_flat=false"/></a> -->
 </p>
